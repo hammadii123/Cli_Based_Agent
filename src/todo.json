@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "description": "Milk, Bread, Eggs, and Fruits",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Complete homework",
+      "description": "Finish math and science assignments",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Workout",
+      "description": "30 minutes of cardio and strength training",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Call mom",
+      "description": "Ask about her health and weekend plans",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "title": "Plan trip",
+      "description": "Research destinations and make bookings",
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+[project]
+name = "class-786"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "sunbulnaz", email = "161361478+sunbulnaz@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "openai-agents>=0.1.0",
+    "python-dotenv>=1.1.1",
+]
+
+[project.scripts]
+class-786 = "class_786:main"
+main="class_786.main:start"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
